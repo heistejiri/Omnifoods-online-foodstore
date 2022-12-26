@@ -14,18 +14,6 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 <br>
 <br>
 
-## 📌 Overview
-**YouTube URL:** <a href="https://youtu.be/Xku3ypsSTIw" target="_blank">**Watch Now** 🚀</a>  
-<br>
-![Screenshot](/screenshots/hero-section.jpg?raw=true "Hero Section Of Website")
-![Screenshot](/screenshots/call-to-action-section.jpg?raw=true "Call To Action Section")
-
-## 📌 My process
-- I started Udemy Course "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.<a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank"> **Check🚀 (Not Sponsered)**</a>
-- I feel confident while writing CSS 👊.
-- This project has given me the confidence to build any complex layouts 👊.
-- Still, we all know that learning CSS is a never-ending process 🚫.
-
 
 ## 📌 What I Learn
 👉 Web design principles.  
@@ -34,10 +22,9 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 👉 Responsive Design (still Kevin Powell's Responsive Web Design course is the best)  
 
 ## 📬 Connect With Me
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6) 
+- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/heistejiri) 
 
 ## 📌 Acknowledgments
 - This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
-- Course Instructor - [Jonas Schmedtmann](https://codingheroes.io/)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
