@@ -14,23 +14,19 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 <br>
 <br>
 
-## 📌 Overview 
+## 📌 Overview
+  
 <br>
 ![Screenshot](/screenshots/hero-section.jpg?raw=true "Hero Section Of Website")
 ![Screenshot](/screenshots/call-to-action-section.jpg?raw=true "Call To Action Section")
-
-
-
-## 📌 What I Learn
-👉 Web design principles.  
-👉 How to optimize the website for production.  
-👉 How to design a website from scratch.  
-👉 Responsive Design (still Kevin Powell's Responsive Web Design course is the best)  
+  
 
 ## 📬 Connect With Me
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/heistejiri/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/heistejiri) 
+
+- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
 
 ## 📌 Acknowledgments
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
